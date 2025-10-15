@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I’m Li Chee 
 
-![IMG_0470 2](https://github.com/user-attachments/assets/6ea146b1-2faa-48b7-b0f0-2814778437b2)
+<p align="left"> <img src="https://github.com/user-attachments/assets/6ea146b1-2faa-48b7-b0f0-2814778437b2" alt="Li Chee" width="250" style="border-radius:15px;"/> </p>
 
 
 🎓 Software Engineering Student 
@@ -30,8 +30,6 @@ I’m Li Chee
 🚀 About Me
 
 🌱 I’m currently exploring Machine Learning and LLM fine-tuning for real-world applications.
-
-🧠 Interested in C++, Python, and C# for test automation and backend development.
 
 ⚙️ Familiar with OpenTAP, FastAPI, React, and PostgreSQL.
 
