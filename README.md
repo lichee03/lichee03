@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m Li Chee 
+
+![IMG_0470 2](https://github.com/user-attachments/assets/6ea146b1-2faa-48b7-b0f0-2814778437b2)
+
+
+🎓 Software Engineering Student 
+
+📍 University of Malaya (UM)
+
+🔬 Currently working on my Final Year Project: AI-Driven Test Plan Generator for Keysight PathWave Test Executive Manufacturing (PTEM)
+
+💭 “Building smarter test systems with AI integration and automation.”
+
+🚀 About Me
+
+🌱 I’m currently exploring Machine Learning and LLM fine-tuning for real-world applications.
+
+🧠 Interested in C++, Python, and C# for test automation and backend development.
+
+⚙️ Familiar with OpenTAP, FastAPI, React, and PostgreSQL.
+
+🤝 Love collaborating on AI + hardware integration projects.
+
+🧩 Open to contributing to open-source automation tools.
